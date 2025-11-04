@@ -4,7 +4,7 @@ const Login = () => {
   return (
     <div>
       <div>
-        <h3 className="text-2xl font-bold text-gray-800 mb-2">Welcome Back</h3>
+        <h3 className="text-2xl font-bold text-gray-800 mb-2 juts">Welcome Back</h3>
         <p className="text-gray-600 text-sm mb-6">Please Enter Your Details to continue</p>
       </div>
     </div>
